@@ -7,6 +7,7 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
+import { withBasePath } from "@/lib/site-config";
 import { heroMiniStats } from "@/lib/site-data";
 
 gsap.registerPlugin(ScrollTrigger);
@@ -193,7 +194,7 @@ export function HeroScene() {
             </div>
           </div>
           <Image
-            src="/hero-command-center.svg"
+            src={withBasePath("/hero-command-center.svg")}
             alt="BioStudy 申请工作台界面"
             width={1060}
             height={760}
@@ -212,7 +213,7 @@ export function HeroScene() {
             className="surface interactive-frame overflow-hidden rounded-[28px] border border-[rgba(255,255,255,0.82)] p-3 shadow-[0_28px_74px_-52px_rgba(22,35,63,0.32)]"
           >
             <Image
-              src="/mentor-cloud.svg"
+              src={withBasePath("/mentor-cloud.svg")}
               alt="导师匹配图谱"
               width={760}
               height={540}
@@ -228,7 +229,7 @@ export function HeroScene() {
             className="surface interactive-frame overflow-hidden rounded-[28px] border border-[rgba(255,255,255,0.82)] p-3 shadow-[0_28px_74px_-52px_rgba(22,35,63,0.32)]"
           >
             <Image
-              src="/offer-radar.svg"
+              src={withBasePath("/offer-radar.svg")}
               alt="申请时间线和 offer 雷达"
               width={760}
               height={540}

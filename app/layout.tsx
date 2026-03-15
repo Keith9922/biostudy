@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     url: "/",
     images: [
       {
-        url: withBasePath("/social-card.svg"),
+        url: "/social-card.svg",
         width: 1200,
         height: 630,
         alt: "BioStudy 生物留学申请策略平台",
@@ -59,12 +59,12 @@ export const metadata: Metadata = {
     title: "BioStudy | 生物留学申请策略平台",
     description:
       "面向生物、神经、生信与公共卫生等方向申请者，提供背景诊断、项目池建立、材料打磨与递交跟进的一体化申请策略服务。",
-    images: [withBasePath("/social-card.svg")],
+    images: ["/social-card.svg"],
   },
   category: "education",
   icons: {
-    icon: "/icon.svg",
-    apple: "/apple-touch-icon.svg",
+    icon: withBasePath("/icon.svg"),
+    apple: withBasePath("/apple-touch-icon.svg"),
   },
   appleWebApp: {
     capable: true,

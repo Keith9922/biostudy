@@ -12,6 +12,7 @@ import { Reveal } from "@/components/landing/reveal";
 import { ResearchSigil } from "@/components/landing/research-sigil";
 import { SectionHeading } from "@/components/landing/section-heading";
 import { SiteHeader } from "@/components/landing/site-header";
+import { withBasePath } from "@/lib/site-config";
 import {
   capabilityCards,
   faqItems,
@@ -191,7 +192,7 @@ export default function HomePage() {
                       {card.image ? (
                         <div className="overflow-hidden rounded-[28px] border border-[rgba(255,255,255,0.85)] bg-[#f6f8fb] p-3 shadow-[0_24px_60px_-42px_rgba(22,35,63,0.24)]">
                           <Image
-                            src={card.image}
+                            src={withBasePath(card.image)}
                             alt={card.title}
                             width={1000}
                             height={680}
