@@ -29,3 +29,7 @@ pnpm build
 部署方式为 Next.js 静态导出到 `out/`，再通过 GitHub Actions 发布到 GitHub Pages。
 
 首次启用时需要在 GitHub 仓库设置里把 Pages 的 Source 切换到 `GitHub Actions`。
+
+当前 Pages 地址：
+
+- `https://keith9922.github.io/biostudy/`
