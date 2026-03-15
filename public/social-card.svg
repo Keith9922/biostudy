@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="40" fill="#F6F3EC"/>
+  <rect x="28" y="28" width="1144" height="574" rx="32" fill="url(#bg)"/>
+  <rect x="76" y="78" width="132" height="132" rx="34" fill="#101A43"/>
+  <text x="112" y="157" fill="white" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="46" font-weight="700">BIO</text>
+  <text x="250" y="145" fill="#101A43" font-family="'PingFang SC', 'Noto Serif SC', Georgia, serif" font-size="74" font-weight="700" letter-spacing="-3">BioStudy</text>
+  <text x="252" y="196" fill="#53607B" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="28" font-weight="500">生物留学申请策略平台</text>
+
+  <text x="82" y="328" fill="#101A43" font-family="'PingFang SC', 'Noto Serif SC', Georgia, serif" font-size="86" font-weight="700" letter-spacing="-4">把生物背景整理成</text>
+  <text x="82" y="418" fill="#27457D" font-family="'PingFang SC', 'Noto Serif SC', Georgia, serif" font-size="86" font-weight="700" letter-spacing="-4">研究型项目认可的申请方案</text>
+  <text x="84" y="492" fill="#5C667C" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="28" font-weight="500">背景诊断、项目池建立、导师匹配、材料治理与递交节奏</text>
+
+  <rect x="774" y="132" width="324" height="190" rx="34" fill="#101A43"/>
+  <rect x="804" y="164" width="264" height="30" rx="15" fill="#213FA5" fill-opacity="0.45"/>
+  <rect x="804" y="214" width="182" height="18" rx="9" fill="white" fill-opacity="0.18"/>
+  <rect x="804" y="252" width="140" height="18" rx="9" fill="#2AAE74"/>
+  <rect x="966" y="252" width="102" height="18" rx="9" fill="white" fill-opacity="0.18"/>
+  <rect x="754" y="360" width="352" height="182" rx="34" fill="white" fill-opacity="0.84"/>
+  <rect x="786" y="394" width="150" height="20" rx="10" fill="#DCE6FB"/>
+  <rect x="786" y="432" width="280" height="24" rx="12" fill="#E9EEF8"/>
+  <rect x="786" y="474" width="110" height="24" rx="12" fill="#101A43"/>
+  <rect x="914" y="474" width="152" height="24" rx="12" fill="#31528F"/>
+  <circle cx="1020" cy="166" r="118" fill="#DDE6F8" fill-opacity="0.7"/>
+  <circle cx="954" cy="542" r="128" fill="#E6ECE0" fill-opacity="0.84"/>
+
+  <defs>
+    <linearGradient id="bg" x1="64" y1="54" x2="1128" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFAF7"/>
+      <stop offset="0.55" stop-color="#F3F1EB"/>
+      <stop offset="1" stop-color="#ECE8DF"/>
+    </linearGradient>
+  </defs>
+</svg>

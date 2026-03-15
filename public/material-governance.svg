@@ -1,0 +1,31 @@
+<svg width="960" height="680" viewBox="0 0 960 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="680" rx="40" fill="#EEF3FB"/>
+  <rect x="34" y="34" width="892" height="612" rx="32" fill="white"/>
+  <rect x="76" y="78" width="188" height="24" rx="12" fill="#DCE6FB"/>
+  <rect x="76" y="118" width="248" height="18" rx="9" fill="#E9EEF8"/>
+  <rect x="76" y="170" width="808" height="430" rx="30" fill="#F7F9FE"/>
+  <path d="M480 250V438" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M330 340H630" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M392 282L446 336" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M568 344L622 290" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M392 398L446 344" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M568 336L622 390" stroke="#9FB3E8" stroke-width="10" stroke-linecap="round"/>
+  <rect x="386" y="274" width="188" height="132" rx="30" fill="#101A43"/>
+  <rect x="154" y="214" width="168" height="86" rx="26" fill="white"/>
+  <rect x="638" y="214" width="168" height="86" rx="26" fill="white"/>
+  <rect x="154" y="386" width="168" height="86" rx="26" fill="white"/>
+  <rect x="638" y="386" width="168" height="86" rx="26" fill="white"/>
+  <rect x="246" y="512" width="468" height="56" rx="22" fill="#E7EEF9"/>
+  <rect x="270" y="528" width="116" height="24" rx="12" fill="white"/>
+  <rect x="402" y="528" width="156" height="24" rx="12" fill="white"/>
+  <rect x="574" y="528" width="116" height="24" rx="12" fill="white"/>
+  <text x="422" y="326" fill="white" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="20" font-weight="700">研究主线</text>
+  <text x="435" y="358" fill="#D8E3FF" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="18" font-weight="600">统一表达</text>
+  <text x="196" y="266" fill="#101A43" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="20" font-weight="700">个人陈述</text>
+  <text x="688" y="266" fill="#101A43" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="20" font-weight="700">推荐信提纲</text>
+  <text x="204" y="438" fill="#101A43" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="20" font-weight="700">学术 CV</text>
+  <text x="680" y="438" fill="#101A43" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="20" font-weight="700">套磁邮件</text>
+  <text x="296" y="545" fill="#53607B" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="16" font-weight="600">研究问题</text>
+  <text x="456" y="545" fill="#53607B" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="16" font-weight="600">方法与结果</text>
+  <text x="609" y="545" fill="#53607B" font-family="'PingFang SC', 'Noto Sans SC', Arial, sans-serif" font-size="16" font-weight="600">未来计划</text>
+</svg>
